@@ -1,0 +1,10 @@
+# Compiled class files
+bin/
+*.class
+
+# VS Code settings
+.vscode/
+
+# External libraries
+tester.jar
+javalib.jar
